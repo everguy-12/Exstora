@@ -195,4 +195,4 @@ Exstora is offered as a full free version, ensuring all features and updates are
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-13 11:53:16 UTC
+**Last updated:** 2026-11-14 00:41:25 UTC
